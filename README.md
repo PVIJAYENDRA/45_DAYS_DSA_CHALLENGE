@@ -29,7 +29,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day   | Topic       | Problems Solved   | Status |
 | ----- | ----------- | ----------------- | ------ |
 | Day 1 | Arrays      | LC73, LC118, LC31 | ✅      |
-| Day 2 | Coming Soon | -                 | ⏳      |
+| Day 2 | Arrays      | LC53, LC75, LC121 | ✅      |
 | Day 3 | Coming Soon | -                 | ⏳      |
 | Day 4 | Coming Soon | -                 | ⏳      |
 | Day 5 | Coming Soon | -                 | ⏳      |
@@ -46,7 +46,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | 118          | Pascal's Triangle |
 | 31           | Next Permutation  |
 
-### Key Learnings
+#### Key Learnings
 
 * Matrix Traversal
 * Space Optimization
@@ -57,56 +57,82 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+### 📅 Day 2 - Arrays
+
+| LeetCode No. | Problem                               |
+| ------------ | ------------------------------------- |
+| 53           | Maximum Subarray (Kadane's Algorithm) |
+| 75           | Sort Colors                           |
+| 121          | Best Time to Buy and Sell Stock       |
+
+#### Key Learnings
+
+* Kadane's Algorithm
+* Dutch National Flag Algorithm
+* Greedy Thinking
+* One-Pass Optimization
+* Prefix Profit Tracking
+* Array Traversal Patterns
+
+---
+
 ## 📂 Repository Structure
 
+```text
 45-DAYS-DSA-CHALLENGE
-
+│
 ├── DAY-1
-
 │   ├── LC73_Set_Matrix_Zeroes.java
-
 │   ├── LC118_Pascals_Triangle.java
-
 │   └── LC31_Next_Permutation.java
-
 │
-
 ├── DAY-2
-
+│   ├── LC53_Maximum_Subarray.java
+│   ├── LC75_Sort_Colors.java
+│   └── LC121_Best_Time_To_Buy_And_Sell_Stock.java
+│
 ├── DAY-3
-
-├── DAY-4
-
 │
-
 ...
-
 │
-
 └── README.md
+```
 
 ---
 
 ## 🧠 Patterns Covered
 
-* Arrays
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Greedy
-* Recursion
-* Backtracking
-* Trees
-* Graphs
-* Dynamic Programming
+### Arrays
+
+* Matrix Traversal
+* Space Optimization
+* Dynamic Construction
+* In-place Modification
+
+### Greedy
+
+* Next Permutation
+* Best Time to Buy and Sell Stock
+
+### Two Pointers
+
+* Sort Colors
+* Next Permutation
+
+### Dynamic Programming
+
+* Kadane's Algorithm (Maximum Subarray)
 
 ---
 
 ## 🔥 Current Progress
 
 ```text
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1/45 Days
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2/45 Days
 ```
+
+**Completed:** 2 Days
+**Remaining:** 43 Days
 
 ---
 
