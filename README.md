@@ -30,7 +30,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | ----- | -------------- | ---------------------------- | ------ |
 | Day 1 | Arrays         | LC73, LC118, LC31            | ✅      |
 | Day 2 | Arrays         | LC53, LC75, LC121            | ✅      |
-| Day 3 | Arrays Part-II | LC48, LC56, GFG Merge Arrays | ✅      |
+| Day 3 | Arrays Part-II | LC48, LC56, LC88             | ✅      |
 | Day 4 | Coming Soon    | -                            | ⏳      |
 | Day 5 | Coming Soon    | -                            | ⏳      |
 
