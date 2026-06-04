@@ -19,20 +19,20 @@ This repository documents my journey of solving DSA problems consistently, impro
 ## 🛠️ Tech Stack
 
 * **Language:** Java ☕
-* **Platform:** LeetCode
+* **Platform:** LeetCode & GeeksforGeeks
 * **Sheet:** TakeUForward SDE Sheet
 
 ---
 
 ## 📈 Progress Tracker
 
-| Day   | Topic          | Problems Solved              | Status |
-| ----- | -------------- | ---------------------------- | ------ |
-| Day 1 | Arrays         | LC73, LC118, LC31            | ✅      |
-| Day 2 | Arrays         | LC53, LC75, LC121            | ✅      |
-| Day 3 | Arrays Part-II | LC48, LC56, LC88             | ✅      |
-| Day 4 | Coming Soon    | -                            | ⏳      |
-| Day 5 | Coming Soon    | -                            | ⏳      |
+| Day   | Topic           | Problems Solved                       | Status |
+| ----- | --------------- | ------------------------------------- | ------ |
+| Day 1 | Arrays          | LC73, LC118, LC31                     | ✅      |
+| Day 2 | Arrays          | LC53, LC75, LC121                     | ✅      |
+| Day 3 | Arrays Part-II  | LC48, LC56, GFG Merge Arrays          | ✅      |
+| Day 4 | Arrays Part-II  | LC287, GFG Repeating & Missing Number | ✅      |
+| Day 5 | Coming Soon     | -                                     | ⏳      |
 
 ---
 
@@ -40,13 +40,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ### 📅 Day 1 - Arrays
 
-| LeetCode No. | Problem           |
-| ------------ | ----------------- |
-| 73           | Set Matrix Zeroes |
-| 118          | Pascal's Triangle |
-| 31           | Next Permutation  |
+| Problem No. | Problem           |
+| ----------- | ----------------- |
+| 73          | Set Matrix Zeroes |
+| 118         | Pascal's Triangle |
+| 31          | Next Permutation  |
 
-**Key Learnings**
+#### Key Learnings
 
 * Matrix Traversal
 * Space Optimization
@@ -59,13 +59,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ### 📅 Day 2 - Arrays
 
-| LeetCode No. | Problem                               |
-| ------------ | ------------------------------------- |
-| 53           | Maximum Subarray (Kadane's Algorithm) |
-| 75           | Sort Colors                           |
-| 121          | Best Time to Buy and Sell Stock       |
+| Problem No. | Problem                               |
+| ----------- | ------------------------------------- |
+| 53          | Maximum Subarray (Kadane's Algorithm) |
+| 75          | Sort Colors                           |
+| 121         | Best Time to Buy and Sell Stock       |
 
-**Key Learnings**
+#### Key Learnings
 
 * Kadane's Algorithm
 * Dutch National Flag Algorithm
@@ -84,7 +84,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | 56          | Merge Intervals                             |
 | GFG         | Merge Two Sorted Arrays Without Extra Space |
 
-**Key Learnings**
+#### Key Learnings
 
 * Matrix Rotation using Transpose + Reverse
 * Interval Merging Technique
@@ -92,6 +92,43 @@ This repository documents my journey of solving DSA problems consistently, impro
 * In-Place Array Manipulation
 * Space Optimization
 * Sorting and Traversal Patterns
+
+---
+
+### 📅 Day 4 - Arrays Part-II
+
+| Problem No. | Problem                               |
+| ----------- | ------------------------------------- |
+| 287         | Find the Duplicate Number             |
+| GFG         | Find the Repeating and Missing Number |
+
+#### Key Learnings
+
+* Frequency Array Technique
+* Mathematical Approach using Sum and Sum of Squares
+* Handling Missing and Duplicate Elements
+* Formula-Based Problem Solving
+* Working with Large Numbers using Long Data Type
+* Constraint-Based Optimization
+
+#### Approaches Used
+
+**LC287 - Find the Duplicate Number**
+
+* Solved using Frequency Array.
+* Detected duplicate by tracking element occurrences.
+* Time Complexity: O(N)
+* Space Complexity: O(N)
+
+**GFG - Find the Repeating and Missing Number**
+
+* Solved using Mathematical Equations.
+* Derived repeating and missing values from:
+
+  * Sum of N natural numbers
+  * Sum of squares of N natural numbers
+* Time Complexity: O(N)
+* Space Complexity: O(1)
 
 ---
 
@@ -124,6 +161,17 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 * Merge Intervals
 
+### Mathematics
+
+* Sum Formula
+* Sum of Squares Formula
+* Missing and Repeating Number Derivation
+
+### Frequency Counting
+
+* Duplicate Detection
+* Occurrence Tracking
+
 ---
 
 ## 📂 Repository Structure
@@ -147,6 +195,10 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   └── Merge_Two_Sorted_Arrays_Without_Extra_Space.java
 │
 ├── DAY-4
+│   ├── LC287_Find_Duplicate_Number.java
+│   └── GFG_Find_Repeating_And_Missing_Number.java
+│
+├── DAY-5
 │
 ...
 │
@@ -158,12 +210,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 ## 🔥 Challenge Progress
 
 ```text
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3/45 Days
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4/45 Days
 ```
 
-**Completed:** 3 Days ✅
+**Completed:** 4 Days ✅
 
-**Remaining:** 42 Days ⏳
+**Remaining:** 41 Days ⏳
 
 ---
 
