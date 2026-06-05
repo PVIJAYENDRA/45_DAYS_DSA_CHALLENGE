@@ -31,8 +31,9 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 1 | Arrays          | LC73, LC118, LC31                     | ✅      |
 | Day 2 | Arrays          | LC53, LC75, LC121                     | ✅      |
 | Day 3 | Arrays Part-II  | LC48, LC56, GFG Merge Arrays          | ✅      |
-| Day 4 | Arrays Part-II  | LC287, GFG Repeating & Missing Number | ✅      |
-| Day 5 | Coming Soon     | -                                     | ⏳      |
+| Day 4 | Arrays Part-III | LC287, GFG Repeating & Missing Number | ✅      |
+| Day 5 | Arrays Part-III | LC74, LC50, LC169, LC229              | ✅      |
+| Day 6 | Coming Soon     | -                                     | ⏳      |
 
 ---
 
@@ -95,7 +96,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-### 📅 Day 4 - Arrays Part-II
+### 📅 Day 4 - Arrays Part-III
 
 | Problem No. | Problem                               |
 | ----------- | ------------------------------------- |
@@ -111,24 +112,34 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Working with Large Numbers using Long Data Type
 * Constraint-Based Optimization
 
-#### Approaches Used
+---
 
-**LC287 - Find the Duplicate Number**
+### 📅 Day 5 - Arrays Part-III
 
-* Solved using Frequency Array.
-* Detected duplicate by tracking element occurrences.
-* Time Complexity: O(N)
-* Space Complexity: O(N)
+| Problem No. | Problem             |
+| ----------- | ------------------- |
+| 74          | Search a 2D Matrix  |
+| 50          | Pow(x, n)           |
+| 169         | Majority Element    |
+| 229         | Majority Element II |
 
-**GFG - Find the Repeating and Missing Number**
+#### Key Learnings
 
-* Solved using Mathematical Equations.
-* Derived repeating and missing values from:
+* Binary Search on a Virtual 1D Array
+* Mapping 1D Indices to 2D Matrix Coordinates
+* Binary Exponentiation (Fast Power)
+* Moore's Voting Algorithm
+* Extended Moore's Voting Algorithm
+* Candidate Selection and Verification Technique
 
-  * Sum of N natural numbers
-  * Sum of squares of N natural numbers
-* Time Complexity: O(N)
-* Space Complexity: O(1)
+#### Patterns Identified
+
+* Binary Search
+* Divide and Conquer
+* Mathematical Computation
+* Voting Algorithm
+* Frequency Optimization
+* Matrix Traversal
 
 ---
 
@@ -141,6 +152,14 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Dynamic Construction
 * In-place Modification
 * Matrix Rotation
+
+### Binary Search
+
+* Search a 2D Matrix
+
+### Divide and Conquer
+
+* Binary Exponentiation
 
 ### Greedy
 
@@ -165,7 +184,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 * Sum Formula
 * Sum of Squares Formula
-* Missing and Repeating Number Derivation
+* Fast Exponentiation
+
+### Voting Algorithms
+
+* Moore's Voting Algorithm
+* Majority Element II
 
 ### Frequency Counting
 
@@ -199,6 +223,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   └── GFG_Find_Repeating_And_Missing_Number.java
 │
 ├── DAY-5
+│   ├── LC74_Search_A_2D_Matrix.java
+│   ├── LC50_Pow_X_N.java
+│   ├── LC169_Majority_Element.java
+│   └── LC229_Majority_Element_II.java
+│
+├── DAY-6
 │
 ...
 │
@@ -210,17 +240,19 @@ This repository documents my journey of solving DSA problems consistently, impro
 ## 🔥 Challenge Progress
 
 ```text
-████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4/45 Days
+█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5/45 Days
 ```
 
-**Completed:** 4 Days ✅
+**Completed:** 5 Days ✅
 
-**Remaining:** 41 Days ⏳
+**Remaining:** 40 Days ⏳
 
 ---
 
 ## ⭐ About This Repository
 
 This repository serves as a public record of my DSA preparation journey. Every day, I solve problems, learn new patterns, and improve my problem-solving skills through consistent practice.
+
+The goal is not just to solve problems, but to understand the underlying patterns that frequently appear in coding interviews and real-world software development.
 
 Happy Coding! 🚀
