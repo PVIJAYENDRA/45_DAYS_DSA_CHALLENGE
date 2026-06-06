@@ -2,21 +2,21 @@
 
 Welcome to my **45-Day Data Structures & Algorithms Challenge**.
 
-This repository documents my journey of solving DSA problems consistently, improving problem-solving skills, and mastering coding interview patterns using **Java**.
+This repository documents my journey of solving Data Structures & Algorithms problems consistently, improving problem-solving skills, and mastering coding interview patterns using **Java**.
 
 ---
 
-## 🎯 Challenge Goals
+# 🎯 Challenge Goals
 
 * Solve DSA problems consistently for 45 days
-* Master common interview patterns
+* Master common coding interview patterns
 * Improve problem-solving skills
 * Strengthen Data Structures & Algorithms fundamentals
 * Build discipline and consistency
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 * **Language:** Java ☕
 * **Platform:** LeetCode & GeeksforGeeks
@@ -24,7 +24,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📈 Progress Tracker
+# 📈 Progress Tracker
 
 | Day   | Topic           | Problems Solved                       | Status |
 | ----- | --------------- | ------------------------------------- | ------ |
@@ -32,22 +32,23 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 2 | Arrays          | LC53, LC75, LC121                     | ✅      |
 | Day 3 | Arrays Part-II  | LC48, LC56, GFG Merge Arrays          | ✅      |
 | Day 4 | Arrays Part-III | LC287, GFG Repeating & Missing Number | ✅      |
-| Day 5 | Arrays Part-III | LC74, LC50, LC169, LC229              | ✅      |
-| Day 6 | Coming Soon     | -                                     | ⏳      |
+| Day 5 | Arrays Part-IV  | LC74, LC50, LC169, LC229              | ✅      |
+| Day 6 | Arrays Part-V   | LC62                                  | ✅      |
+| Day 7 | Coming Soon     | -                                     | ⏳      |
 
 ---
 
-## 📚 Day-wise Solutions
+# 📚 Daily Progress & Learnings
 
-### 📅 Day 1 - Arrays
+## 📅 Day 1 - Arrays
 
-| Problem No. | Problem           |
-| ----------- | ----------------- |
-| 73          | Set Matrix Zeroes |
-| 118         | Pascal's Triangle |
-| 31          | Next Permutation  |
+### Problems Solved
 
-#### Key Learnings
+* LC73 - Set Matrix Zeroes
+* LC118 - Pascal's Triangle
+* LC31 - Next Permutation
+
+### Key Learnings
 
 * Matrix Traversal
 * Space Optimization
@@ -58,15 +59,15 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-### 📅 Day 2 - Arrays
+## 📅 Day 2 - Arrays
 
-| Problem No. | Problem                               |
-| ----------- | ------------------------------------- |
-| 53          | Maximum Subarray (Kadane's Algorithm) |
-| 75          | Sort Colors                           |
-| 121         | Best Time to Buy and Sell Stock       |
+### Problems Solved
 
-#### Key Learnings
+* LC53 - Maximum Subarray
+* LC75 - Sort Colors
+* LC121 - Best Time to Buy and Sell Stock
+
+### Key Learnings
 
 * Kadane's Algorithm
 * Dutch National Flag Algorithm
@@ -77,15 +78,15 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-### 📅 Day 3 - Arrays Part-II
+## 📅 Day 3 - Arrays Part-II
 
-| Problem No. | Problem                                     |
-| ----------- | ------------------------------------------- |
-| 48          | Rotate Image                                |
-| 56          | Merge Intervals                             |
-| GFG         | Merge Two Sorted Arrays Without Extra Space |
+### Problems Solved
 
-#### Key Learnings
+* LC48 - Rotate Image
+* LC56 - Merge Intervals
+* GFG - Merge Two Sorted Arrays Without Extra Space
+
+### Key Learnings
 
 * Matrix Rotation using Transpose + Reverse
 * Interval Merging Technique
@@ -96,56 +97,79 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-### 📅 Day 4 - Arrays Part-III
+## 📅 Day 4 - Arrays Part-III
 
-| Problem No. | Problem                               |
-| ----------- | ------------------------------------- |
-| 287         | Find the Duplicate Number             |
-| GFG         | Find the Repeating and Missing Number |
+### Problems Solved
 
-#### Key Learnings
+* LC287 - Find the Duplicate Number
+* GFG - Find the Repeating and Missing Number
+
+### Key Learnings
 
 * Frequency Array Technique
 * Mathematical Approach using Sum and Sum of Squares
 * Handling Missing and Duplicate Elements
 * Formula-Based Problem Solving
-* Working with Large Numbers using Long Data Type
+* Working with Large Numbers
 * Constraint-Based Optimization
 
 ---
 
-### 📅 Day 5 - Arrays Part-III
+## 📅 Day 5 - Arrays Part-IV
 
-| Problem No. | Problem             |
-| ----------- | ------------------- |
-| 74          | Search a 2D Matrix  |
-| 50          | Pow(x, n)           |
-| 169         | Majority Element    |
-| 229         | Majority Element II |
+### Problems Solved
 
-#### Key Learnings
+* LC74 - Search a 2D Matrix
+* LC50 - Pow(x, n)
+* LC169 - Majority Element
+* LC229 - Majority Element II
+
+### Key Learnings
 
 * Binary Search on a Virtual 1D Array
-* Mapping 1D Indices to 2D Matrix Coordinates
-* Binary Exponentiation (Fast Power)
+* Binary Exponentiation
 * Moore's Voting Algorithm
 * Extended Moore's Voting Algorithm
-* Candidate Selection and Verification Technique
-
-#### Patterns Identified
-
-* Binary Search
-* Divide and Conquer
-* Mathematical Computation
-* Voting Algorithm
+* Candidate Selection and Verification
 * Frequency Optimization
-* Matrix Traversal
 
 ---
 
-## 🧠 Patterns Covered
+## 📅 Day 6 - Arrays Part-V
 
-### Arrays
+### Problems Solved
+
+* LC62 - Unique Paths
+
+### Key Learnings
+
+* Dynamic Programming Fundamentals
+* Grid Traversal
+* State Transition Logic
+* Space Optimization
+* Tabulation Technique
+* Path Counting Problems
+
+### Approach Used
+
+* Used Dynamic Programming with Space Optimization.
+* Maintained only the previous row instead of the complete DP matrix.
+* Computed each cell using:
+
+  * Paths from Above
+  * Paths from Left
+* Reduced space complexity from O(m × n) to O(n).
+
+### Complexity Analysis
+
+* **Time Complexity:** O(m × n)
+* **Space Complexity:** O(n)
+
+---
+
+# 🧠 Patterns Covered
+
+## Arrays
 
 * Matrix Traversal
 * Space Optimization
@@ -153,52 +177,50 @@ This repository documents my journey of solving DSA problems consistently, impro
 * In-place Modification
 * Matrix Rotation
 
-### Binary Search
+## Binary Search
 
 * Search a 2D Matrix
 
-### Divide and Conquer
-
-* Binary Exponentiation
-
-### Greedy
+## Greedy
 
 * Next Permutation
 * Best Time to Buy and Sell Stock
 
-### Two Pointers
+## Two Pointers
 
 * Sort Colors
-* Next Permutation
 * Merge Arrays (Gap Method)
 
-### Dynamic Programming
+## Dynamic Programming
 
-* Kadane's Algorithm (Maximum Subarray)
+* Kadane's Algorithm
+* Unique Paths
+* Grid DP
+* Space Optimized DP
 
-### Intervals
+## Intervals
 
 * Merge Intervals
 
-### Mathematics
+## Mathematics
 
 * Sum Formula
 * Sum of Squares Formula
 * Fast Exponentiation
 
-### Voting Algorithms
+## Voting Algorithms
 
 * Moore's Voting Algorithm
 * Majority Element II
 
-### Frequency Counting
+## Frequency Counting
 
 * Duplicate Detection
 * Occurrence Tracking
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 45-DAYS-DSA-CHALLENGE
@@ -229,30 +251,29 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   └── LC229_Majority_Element_II.java
 │
 ├── DAY-6
-│
-...
+│   └── LC62_Unique_Paths.java
 │
 └── README.md
 ```
 
 ---
 
-## 🔥 Challenge Progress
+# 🔥 Challenge Progress
 
 ```text
-█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5/45 Days
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6/45 Days
 ```
 
-**Completed:** 5 Days ✅
+**Completed:** 6 Days ✅
 
-**Remaining:** 40 Days ⏳
+**Remaining:** 39 Days ⏳
 
 ---
 
-## ⭐ About This Repository
+# ⭐ About This Repository
 
-This repository serves as a public record of my DSA preparation journey. Every day, I solve problems, learn new patterns, and improve my problem-solving skills through consistent practice.
+This repository serves as a public record of my DSA preparation journey through the TakeUForward SDE Sheet.
 
-The goal is not just to solve problems, but to understand the underlying patterns that frequently appear in coding interviews and real-world software development.
+The goal is not just to solve problems but to understand the underlying patterns, optimize solutions, and strengthen interview preparation through consistent practice.
 
-Happy Coding! 🚀
+🚀 Happy Coding!
