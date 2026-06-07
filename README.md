@@ -2,7 +2,7 @@
 
 Welcome to my **45-Day Data Structures & Algorithms Challenge**.
 
-This repository documents my journey of solving Data Structures & Algorithms problems consistently, improving problem-solving skills, and mastering coding interview patterns using **Java**.
+This repository documents my journey of solving DSA problems consistently, improving problem-solving skills, and mastering coding interview patterns using **Java**.
 
 ---
 
@@ -18,9 +18,9 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 
 # 🛠️ Tech Stack
 
-* **Language:** Java ☕
-* **Platform:** LeetCode & GeeksforGeeks
-* **Sheet:** TakeUForward SDE Sheet
+* Language: Java ☕
+* Platform: LeetCode & GeeksforGeeks
+* Sheet: TakeUForward SDE Sheet
 
 ---
 
@@ -31,10 +31,10 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 | Day 1 | Arrays          | LC73, LC118, LC31                     | ✅      |
 | Day 2 | Arrays          | LC53, LC75, LC121                     | ✅      |
 | Day 3 | Arrays Part-II  | LC48, LC56, GFG Merge Arrays          | ✅      |
-| Day 4 | Arrays Part-III | LC287, GFG Repeating & Missing Number | ✅      |
-| Day 5 | Arrays Part-IV  | LC74, LC50, LC169, LC229              | ✅      |
-| Day 6 | Arrays Part-V   | LC62                                  | ✅      |
-| Day 7 | Coming Soon     | -                                     | ⏳      |
+| Day 4 | Arrays Part-II  | LC287, GFG Repeating & Missing Number | ✅      |
+| Day 5 | Arrays Part-Ill | LC74, LC50, LC169, LC229              | ✅      |
+| Day 6 | Arrays Part-lll | LC62                                  | ✅      |
+| Day 7 | Arrays Part-lV  | LC1, LC15, LC18                       | ✅      |
 
 ---
 
@@ -52,9 +52,7 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 
 * Matrix Traversal
 * Space Optimization
-* Dynamic Construction
-* Greedy Approach
-* Two Pointer Technique
+* Greedy Thinking
 * In-place Modification
 
 ---
@@ -71,10 +69,8 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 
 * Kadane's Algorithm
 * Dutch National Flag Algorithm
-* Greedy Thinking
-* One-Pass Optimization
-* Prefix Profit Tracking
-* Array Traversal Patterns
+* Greedy Optimization
+* One-Pass Solutions
 
 ---
 
@@ -88,54 +84,47 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 
 ### Key Learnings
 
-* Matrix Rotation using Transpose + Reverse
-* Interval Merging Technique
-* Gap Method (Shell Sort Inspired)
-* In-Place Array Manipulation
-* Space Optimization
-* Sorting and Traversal Patterns
+* Matrix Rotation
+* Interval Processing
+* Gap Method
+* Sorting Patterns
 
 ---
 
-## 📅 Day 4 - Arrays Part-III
+## 📅 Day 4 - Arrays Part-II
 
 ### Problems Solved
 
 * LC287 - Find the Duplicate Number
-* GFG - Find the Repeating and Missing Number
+* GFG - Find Repeating and Missing Number
 
 ### Key Learnings
 
-* Frequency Array Technique
-* Mathematical Approach using Sum and Sum of Squares
-* Handling Missing and Duplicate Elements
-* Formula-Based Problem Solving
-* Working with Large Numbers
-* Constraint-Based Optimization
+* Frequency Counting
+* Mathematical Derivation
+* Missing & Duplicate Element Patterns
 
 ---
 
-## 📅 Day 5 - Arrays Part-IV
+## 📅 Day 5 - Arrays Part-Ill
 
 ### Problems Solved
 
 * LC74 - Search a 2D Matrix
-* LC50 - Pow(x, n)
+* LC50 - Pow(x,n)
 * LC169 - Majority Element
 * LC229 - Majority Element II
 
 ### Key Learnings
 
-* Binary Search on a Virtual 1D Array
+* Binary Search
 * Binary Exponentiation
 * Moore's Voting Algorithm
-* Extended Moore's Voting Algorithm
-* Candidate Selection and Verification
-* Frequency Optimization
+* Extended Voting Algorithm
 
 ---
 
-## 📅 Day 6 - Arrays Part-V
+## 📅 Day 6 - Arrays Part-lll
 
 ### Problems Solved
 
@@ -143,80 +132,80 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 
 ### Key Learnings
 
-* Dynamic Programming Fundamentals
+* Dynamic Programming
 * Grid Traversal
-* State Transition Logic
+* State Transition
 * Space Optimization
-* Tabulation Technique
-* Path Counting Problems
-
-### Approach Used
-
-* Used Dynamic Programming with Space Optimization.
-* Maintained only the previous row instead of the complete DP matrix.
-* Computed each cell using:
-
-  * Paths from Above
-  * Paths from Left
-* Reduced space complexity from O(m × n) to O(n).
-
-### Complexity Analysis
-
-* **Time Complexity:** O(m × n)
-* **Space Complexity:** O(n)
 
 ---
 
-# 🧠 Patterns Covered
+## 📅 Day 7 - Arrays Part-IV
 
-## Arrays
+### Problems Solved
+
+* LC1 - Two Sum
+* LC15 - 3Sum
+* LC18 - 4Sum
+
+### Key Learnings
+
+* HashMap Optimization
+* Two Pointer Technique
+* K-Sum Pattern
+* Duplicate Handling
+* Sorting-Based Optimization
+* Overflow Prevention
+
+---
+
+# 🧠 Patterns Covered So Far
+
+### Arrays
 
 * Matrix Traversal
 * Space Optimization
-* Dynamic Construction
 * In-place Modification
-* Matrix Rotation
+* Array Manipulation
 
-## Binary Search
+### Hashing
+
+* Two Sum
+* Frequency Counting
+
+### Two Pointers
+
+* Sort Colors
+* 3Sum
+* 4Sum
+* Merge Arrays
+
+### Binary Search
 
 * Search a 2D Matrix
 
-## Greedy
-
-* Next Permutation
-* Best Time to Buy and Sell Stock
-
-## Two Pointers
-
-* Sort Colors
-* Merge Arrays (Gap Method)
-
-## Dynamic Programming
+### Dynamic Programming
 
 * Kadane's Algorithm
 * Unique Paths
-* Grid DP
-* Space Optimized DP
 
-## Intervals
+### Greedy
 
-* Merge Intervals
+* Next Permutation
+* Stock Buy & Sell
 
-## Mathematics
+### Mathematics
 
-* Sum Formula
-* Sum of Squares Formula
-* Fast Exponentiation
+* Binary Exponentiation
+* Missing & Repeating Number
 
-## Voting Algorithms
+### Voting Algorithms
 
 * Moore's Voting Algorithm
 * Majority Element II
 
-## Frequency Counting
+### Intervals
 
-* Duplicate Detection
-* Occurrence Tracking
+* Merge Intervals
 
 ---
 
@@ -253,6 +242,11 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 ├── DAY-6
 │   └── LC62_Unique_Paths.java
 │
+├── DAY-7
+│   ├── LC1_Two_Sum.java
+│   ├── LC15_Three_Sum.java
+│   └── LC18_Four_Sum.java
+│
 └── README.md
 ```
 
@@ -261,12 +255,12 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 # 🔥 Challenge Progress
 
 ```text
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6/45 Days
+███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7/45 Days
 ```
 
-**Completed:** 6 Days ✅
+**Completed:** 7 Days ✅
 
-**Remaining:** 39 Days ⏳
+**Remaining:** 38 Days ⏳
 
 ---
 
@@ -274,6 +268,6 @@ This repository documents my journey of solving Data Structures & Algorithms pro
 
 This repository serves as a public record of my DSA preparation journey through the TakeUForward SDE Sheet.
 
-The goal is not just to solve problems but to understand the underlying patterns, optimize solutions, and strengthen interview preparation through consistent practice.
+My goal is not just to solve problems but to understand patterns, improve optimization skills, and build strong problem-solving abilities for technical interviews.
 
 🚀 Happy Coding!
