@@ -26,15 +26,16 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 # 📈 Progress Tracker
 
-| Day   | Topic           | Problems Solved                       | Status |
-| ----- | --------------- | ------------------------------------- | ------ |
-| Day 1 | Arrays          | LC73, LC118, LC31                     | ✅      |
-| Day 2 | Arrays          | LC53, LC75, LC121                     | ✅      |
-| Day 3 | Arrays Part-II  | LC48, LC56, GFG Merge Arrays          | ✅      |
-| Day 4 | Arrays Part-II  | LC287, GFG Repeating & Missing Number | ✅      |
-| Day 5 | Arrays Part-Ill | LC74, LC50, LC169, LC229              | ✅      |
-| Day 6 | Arrays Part-lll | LC62                                  | ✅      |
-| Day 7 | Arrays Part-lV  | LC1, LC15, LC18                       | ✅      |
+| Day   | Topic           | Problems Solved                              | Status |
+| ----- | --------------- | -------------------------------------------- | ------ |
+| Day 1 | Arrays          | LC73, LC118, LC31                            | ✅      |
+| Day 2 | Arrays          | LC53, LC75, LC121                            | ✅      |
+| Day 3 | Arrays Part-II  | LC48, LC56, GFG Merge Arrays                 | ✅      |
+| Day 4 | Arrays Part-II  | LC287, GFG Repeating & Missing Number        | ✅      |
+| Day 5 | Arrays Part-Ill | LC74, LC50, LC169, LC229                     | ✅      |
+| Day 6 | Arrays Part-lll | LC62                                         | ✅      |
+| Day 7 | Arrays Part-IV  | LC1, LC15, LC18                              | ✅      |
+| Day 8 | Arrays Part-IV  | GFG Longest Subarray Sum K, GFG Subarray XOR | ✅      |
 
 ---
 
@@ -42,13 +43,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 1 - Arrays
 
-### Problems Solved
+**Problems Solved**
 
 * LC73 - Set Matrix Zeroes
 * LC118 - Pascal's Triangle
 * LC31 - Next Permutation
 
-### Key Learnings
+**Key Learnings**
 
 * Matrix Traversal
 * Space Optimization
@@ -59,13 +60,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 2 - Arrays
 
-### Problems Solved
+**Problems Solved**
 
 * LC53 - Maximum Subarray
 * LC75 - Sort Colors
 * LC121 - Best Time to Buy and Sell Stock
 
-### Key Learnings
+**Key Learnings**
 
 * Kadane's Algorithm
 * Dutch National Flag Algorithm
@@ -76,13 +77,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 3 - Arrays Part-II
 
-### Problems Solved
+**Problems Solved**
 
 * LC48 - Rotate Image
 * LC56 - Merge Intervals
 * GFG - Merge Two Sorted Arrays Without Extra Space
 
-### Key Learnings
+**Key Learnings**
 
 * Matrix Rotation
 * Interval Processing
@@ -93,44 +94,44 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 4 - Arrays Part-II
 
-### Problems Solved
+**Problems Solved**
 
 * LC287 - Find the Duplicate Number
 * GFG - Find Repeating and Missing Number
 
-### Key Learnings
+**Key Learnings**
 
 * Frequency Counting
 * Mathematical Derivation
-* Missing & Duplicate Element Patterns
+* Missing & Duplicate Patterns
 
 ---
 
-## 📅 Day 5 - Arrays Part-Ill
+## 📅 Day 5 - Arrays Part-III
 
-### Problems Solved
+**Problems Solved**
 
 * LC74 - Search a 2D Matrix
 * LC50 - Pow(x,n)
 * LC169 - Majority Element
 * LC229 - Majority Element II
 
-### Key Learnings
+**Key Learnings**
 
 * Binary Search
 * Binary Exponentiation
 * Moore's Voting Algorithm
-* Extended Voting Algorithm
+* Extended Moore's Voting Algorithm
 
 ---
 
-## 📅 Day 6 - Arrays Part-lll
+## 📅 Day 6 - Arrays Part-III
 
-### Problems Solved
+**Problems Solved**
 
 * LC62 - Unique Paths
 
-### Key Learnings
+**Key Learnings**
 
 * Dynamic Programming
 * Grid Traversal
@@ -141,20 +142,37 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 7 - Arrays Part-IV
 
-### Problems Solved
+**Problems Solved**
 
 * LC1 - Two Sum
 * LC15 - 3Sum
 * LC18 - 4Sum
 
-### Key Learnings
+**Key Learnings**
 
 * HashMap Optimization
 * Two Pointer Technique
 * K-Sum Pattern
 * Duplicate Handling
 * Sorting-Based Optimization
-* Overflow Prevention
+
+---
+
+## 📅 Day 8 - Arrays Part-IV
+
+**Problems Solved**
+
+* GFG - Longest Subarray with Sum K
+* GFG - Count Subarrays with Given XOR
+
+**Key Learnings**
+
+* Prefix Sum Technique
+* Prefix XOR Technique
+* HashMap Optimization
+* Subarray Counting Pattern
+* Longest Subarray Pattern
+* Frequency Mapping
 
 ---
 
@@ -163,13 +181,15 @@ This repository documents my journey of solving DSA problems consistently, impro
 ### Arrays
 
 * Matrix Traversal
-* Space Optimization
+* Matrix Rotation
 * In-place Modification
-* Array Manipulation
+* Space Optimization
 
 ### Hashing
 
 * Two Sum
+* Longest Subarray Sum K
+* Subarray XOR
 * Frequency Counting
 
 ### Two Pointers
@@ -206,6 +226,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 ### Intervals
 
 * Merge Intervals
+
+### Prefix Techniques
+
+* Prefix Sum
+* Prefix XOR
 
 ---
 
@@ -247,6 +272,10 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── LC15_Three_Sum.java
 │   └── LC18_Four_Sum.java
 │
+├── DAY-8
+│   ├── GFG_Longest_Subarray_With_Sum_K.java
+│   └── GFG_Count_Subarrays_With_Given_XOR.java
+│
 └── README.md
 ```
 
@@ -255,12 +284,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 # 🔥 Challenge Progress
 
 ```text
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7/45 Days
+████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8/45 Days
 ```
 
-**Completed:** 7 Days ✅
+**Completed:** 8 Days ✅
 
-**Remaining:** 38 Days ⏳
+**Remaining:** 37 Days ⏳
 
 ---
 
