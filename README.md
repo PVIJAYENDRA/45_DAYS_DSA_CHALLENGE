@@ -32,10 +32,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 2 | Arrays          | LC53, LC75, LC121                            | ✅      |
 | Day 3 | Arrays Part-II  | LC48, LC56, GFG Merge Arrays                 | ✅      |
 | Day 4 | Arrays Part-II  | LC287, GFG Repeating & Missing Number        | ✅      |
-| Day 5 | Arrays Part-Ill | LC74, LC50, LC169, LC229                     | ✅      |
-| Day 6 | Arrays Part-lll | LC62                                         | ✅      |
+| Day 5 | Arrays Part-III | LC74, LC50, LC169, LC229                     | ✅      |
+| Day 6 | Arrays Part-III | LC62                                         | ✅      |
 | Day 7 | Arrays Part-IV  | LC1, LC15, LC18                              | ✅      |
 | Day 8 | Arrays Part-IV  | GFG Longest Subarray Sum K, GFG Subarray XOR | ✅      |
+| Day 9 | Linked List     | LC876, LC206, LC21                           | ✅      |
 
 ---
 
@@ -43,13 +44,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 1 - Arrays
 
-**Problems Solved**
+### Problems Solved
 
 * LC73 - Set Matrix Zeroes
 * LC118 - Pascal's Triangle
 * LC31 - Next Permutation
 
-**Key Learnings**
+### Key Learnings
 
 * Matrix Traversal
 * Space Optimization
@@ -60,13 +61,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 2 - Arrays
 
-**Problems Solved**
+### Problems Solved
 
 * LC53 - Maximum Subarray
 * LC75 - Sort Colors
 * LC121 - Best Time to Buy and Sell Stock
 
-**Key Learnings**
+### Key Learnings
 
 * Kadane's Algorithm
 * Dutch National Flag Algorithm
@@ -77,13 +78,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 3 - Arrays Part-II
 
-**Problems Solved**
+### Problems Solved
 
 * LC48 - Rotate Image
 * LC56 - Merge Intervals
 * GFG - Merge Two Sorted Arrays Without Extra Space
 
-**Key Learnings**
+### Key Learnings
 
 * Matrix Rotation
 * Interval Processing
@@ -94,12 +95,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 4 - Arrays Part-II
 
-**Problems Solved**
+### Problems Solved
 
 * LC287 - Find the Duplicate Number
 * GFG - Find Repeating and Missing Number
 
-**Key Learnings**
+### Key Learnings
 
 * Frequency Counting
 * Mathematical Derivation
@@ -109,14 +110,14 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 5 - Arrays Part-III
 
-**Problems Solved**
+### Problems Solved
 
 * LC74 - Search a 2D Matrix
 * LC50 - Pow(x,n)
 * LC169 - Majority Element
 * LC229 - Majority Element II
 
-**Key Learnings**
+### Key Learnings
 
 * Binary Search
 * Binary Exponentiation
@@ -127,11 +128,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 6 - Arrays Part-III
 
-**Problems Solved**
+### Problems Solved
 
 * LC62 - Unique Paths
 
-**Key Learnings**
+### Key Learnings
 
 * Dynamic Programming
 * Grid Traversal
@@ -142,13 +143,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 7 - Arrays Part-IV
 
-**Problems Solved**
+### Problems Solved
 
 * LC1 - Two Sum
 * LC15 - 3Sum
 * LC18 - 4Sum
 
-**Key Learnings**
+### Key Learnings
 
 * HashMap Optimization
 * Two Pointer Technique
@@ -160,12 +161,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## 📅 Day 8 - Arrays Part-IV
 
-**Problems Solved**
+### Problems Solved
 
 * GFG - Longest Subarray with Sum K
 * GFG - Count Subarrays with Given XOR
 
-**Key Learnings**
+### Key Learnings
 
 * Prefix Sum Technique
 * Prefix XOR Technique
@@ -173,6 +174,25 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Subarray Counting Pattern
 * Longest Subarray Pattern
 * Frequency Mapping
+
+---
+
+## 📅 Day 9 - Linked List
+
+### Problems Solved
+
+* LC876 - Middle of the Linked List
+* LC206 - Reverse Linked List
+* LC21 - Merge Two Sorted Lists
+
+### Key Learnings
+
+* Slow & Fast Pointer Technique
+* Linked List Traversal
+* In-Place Linked List Reversal
+* Dummy Node Technique
+* Pointer Manipulation
+* Merging Sorted Linked Lists
 
 ---
 
@@ -232,6 +252,14 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Prefix Sum
 * Prefix XOR
 
+### Linked Lists
+
+* Slow & Fast Pointers
+* Linked List Reversal
+* Dummy Node Technique
+* Merge Pattern
+* Pointer Manipulation
+
 ---
 
 # 📂 Repository Structure
@@ -276,6 +304,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── GFG_Longest_Subarray_With_Sum_K.java
 │   └── GFG_Count_Subarrays_With_Given_XOR.java
 │
+├── DAY-9
+│   ├── LC876_Middle_Of_The_Linked_List.java
+│   ├── LC206_Reverse_Linked_List.java
+│   └── LC21_Merge_Two_Sorted_Lists.java
+│
 └── README.md
 ```
 
@@ -284,12 +317,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 # 🔥 Challenge Progress
 
 ```text
-████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8/45 Days
+█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9/45 Days
 ```
 
-**Completed:** 8 Days ✅
+**Completed:** 9 Days ✅
 
-**Remaining:** 37 Days ⏳
+**Remaining:** 36 Days ⏳
 
 ---
 
