@@ -8,322 +8,107 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 # 🎯 Challenge Goals
 
-- Solve DSA problems consistently for 45 days
-- Master common coding interview patterns
-- Improve problem-solving skills
-- Strengthen Data Structures & Algorithms fundamentals
-- Build discipline and consistency
+* Solve DSA problems consistently for 45 days
+* Master common coding interview patterns
+* Improve problem-solving skills
+* Strengthen Data Structures & Algorithms fundamentals
+* Build discipline and consistency
 
 ---
 
 # 🛠️ Tech Stack
 
-- **Language:** Java ☕
-- **Platform:** LeetCode & GeeksforGeeks
-- **Sheet:** TakeUForward SDE Sheet
+* **Language:** Java ☕
+* **Platform:** LeetCode & GeeksforGeeks
+* **Sheet:** TakeUForward SDE Sheet
+
+---
+
+# 📊 Challenge Summary
+
+| Metric                 | Count   |
+| ---------------------- | ------- |
+| Days Completed         | 12 / 45 |
+| Problems Solved        | 32      |
+| LeetCode Problems      | 28      |
+| GeeksforGeeks Problems | 4       |
+| Completion Percentage  | 26.7%   |
 
 ---
 
 # 📈 Progress Tracker
 
-| Day | Topic | Problems Solved | Status |
-|------|---------|----------------|---------|
-| Day 1 | Arrays | LC73, LC118, LC31 | ✅ |
-| Day 2 | Arrays | LC53, LC75, LC121 | ✅ |
-| Day 3 | Arrays Part-II | LC48, LC56, GFG Merge Arrays | ✅ |
-| Day 4 | Arrays Part-II | LC287, GFG Repeating & Missing Number | ✅ |
-| Day 5 | Arrays Part-III | LC74, LC50, LC169, LC229 | ✅ |
-| Day 6 | Arrays Part-III | LC62 | ✅ |
-| Day 7 | Arrays Part-IV | LC1, LC15, LC18 | ✅ |
-| Day 8 | Arrays Part-IV | GFG Longest Subarray Sum K, GFG Subarray XOR | ✅ |
-| Day 9 | Linked List Part-I | LC876, LC206, LC21 | ✅ |
-| Day 10 | Linked List Part-II | LC19, LC2, LC237 | ✅ |
-| Day 11 | Linked List Part-II | LC160, LC141, LC25 | ✅ |
+| Day    | Topic                | Problems Solved                              |
+| ------ | -------------------- | -------------------------------------------- |
+| Day 1  | Arrays               | LC73, LC118, LC31                            |
+| Day 2  | Arrays               | LC53, LC75, LC121                            |
+| Day 3  | Arrays Part-II       | LC48, LC56, GFG Merge Arrays                 |
+| Day 4  | Arrays Part-III      | LC287, GFG Repeating & Missing Number        |
+| Day 5  | Arrays Part-IV       | LC74, LC50, LC169, LC229                     |
+| Day 6  | Arrays Part-V        | LC62                                         |
+| Day 7  | Arrays Part-VI       | LC1, LC15, LC18                              |
+| Day 8  | Arrays Part-VII      | GFG Longest Subarray Sum K, GFG Subarray XOR |
+| Day 9  | Linked List Part-I   | LC876, LC206, LC21                           |
+| Day 10 | Linked List Part-II  | LC19, LC2, LC237                             |
+| Day 11 | Linked List Part-III | LC160, LC141, LC25                           |
+| Day 12 | Linked List Part-IV  | LC234, LC142                                 |
 
 ---
 
-# 📊 Statistics
-
-- **Total Days Completed:** 11 / 45
-- **Total Problems Solved:** 30
-- **LeetCode Problems:** 26
-- **GeeksforGeeks Problems:** 4
-
-### Topics Covered
-
-- Arrays
-- Hashing
-- Two Pointers
-- Binary Search
-- Dynamic Programming
-- Greedy
-- Linked Lists
-- Prefix Sum
-- Prefix XOR
-
----
-
-# 📚 Daily Progress & Learnings
-
-## 📅 Day 1 - Arrays
-
-### Problems Solved
-
-- LC73 - Set Matrix Zeroes
-- LC118 - Pascal's Triangle
-- LC31 - Next Permutation
-
-### Key Learnings
-
-- Matrix Traversal
-- Space Optimization
-- Greedy Thinking
-- In-place Modification
-
----
-
-## 📅 Day 2 - Arrays
-
-### Problems Solved
-
-- LC53 - Maximum Subarray
-- LC75 - Sort Colors
-- LC121 - Best Time to Buy and Sell Stock
-
-### Key Learnings
-
-- Kadane's Algorithm
-- Dutch National Flag Algorithm
-- Greedy Optimization
-- One-Pass Solutions
-
----
-
-## 📅 Day 3 - Arrays Part-II
-
-### Problems Solved
-
-- LC48 - Rotate Image
-- LC56 - Merge Intervals
-- GFG - Merge Two Sorted Arrays Without Extra Space
-
-### Key Learnings
-
-- Matrix Rotation
-- Interval Processing
-- Gap Method
-- Sorting Patterns
-
----
-
-## 📅 Day 4 - Arrays Part-II
-
-### Problems Solved
-
-- LC287 - Find the Duplicate Number
-- GFG - Find Repeating and Missing Number
-
-### Key Learnings
-
-- Frequency Counting
-- Mathematical Derivation
-- Missing & Duplicate Patterns
-
----
-
-## 📅 Day 5 - Arrays Part-III
-
-### Problems Solved
-
-- LC74 - Search a 2D Matrix
-- LC50 - Pow(x,n)
-- LC169 - Majority Element
-- LC229 - Majority Element II
-
-### Key Learnings
-
-- Binary Search
-- Binary Exponentiation
-- Moore's Voting Algorithm
-- Extended Moore's Voting Algorithm
-
----
-
-## 📅 Day 6 - Arrays Part-III
-
-### Problems Solved
-
-- LC62 - Unique Paths
-
-### Key Learnings
-
-- Dynamic Programming
-- Grid Traversal
-- State Transition
-- Space Optimization
-
----
-
-## 📅 Day 7 - Arrays Part-IV
-
-### Problems Solved
-
-- LC1 - Two Sum
-- LC15 - 3Sum
-- LC18 - 4Sum
-
-### Key Learnings
-
-- HashMap Optimization
-- Two Pointer Technique
-- K-Sum Pattern
-- Duplicate Handling
-- Sorting-Based Optimization
-
----
-
-## 📅 Day 8 - Arrays Part-IV
-
-### Problems Solved
-
-- GFG - Longest Subarray with Sum K
-- GFG - Count Subarrays with Given XOR
-
-### Key Learnings
-
-- Prefix Sum Technique
-- Prefix XOR Technique
-- HashMap Optimization
-- Subarray Counting Pattern
-- Longest Subarray Pattern
-- Frequency Mapping
-
----
-
-## 📅 Day 9 - Linked List 
-
-### Problems Solved
-
-- LC876 - Middle of the Linked List
-- LC206 - Reverse Linked List
-- LC21 - Merge Two Sorted Lists
-
-### Key Learnings
-
-- Slow & Fast Pointer Technique
-- Linked List Traversal
-- In-Place Linked List Reversal
-- Dummy Node Technique
-- Pointer Manipulation
-- Merging Sorted Linked Lists
-
----
-
-## 📅 Day 10 - Linked List Part-II
-
-### Problems Solved
-
-- LC19 - Remove Nth Node From End of List
-- LC2 - Add Two Numbers
-- LC237 - Delete Node in a Linked List
-
-### Key Learnings
-
-- Fast & Slow Pointer Technique
-- Dummy Node Usage
-- Linked List Arithmetic
-- Carry Propagation
-- Node Deletion Without Head Access
-- Edge Case Handling
-
----
-
-## 📅 Day 11 - Linked List Part-II
-
-### Problems Solved
-
-- LC160 - Intersection of Two Linked Lists
-- LC141 - Linked List Cycle
-- LC25 - Reverse Nodes in K-Group
-
-### Key Learnings
-
-- Floyd's Cycle Detection Algorithm
-- Pointer Switching Technique
-- Linked List Intersection Pattern
-- K-Group Reversal
-- Segment-Based Linked List Manipulation
-- Advanced Pointer Handling
-
----
-
-# 🧠 Patterns Covered So Far
+# 📚 Topics & Patterns Covered
 
 ## Arrays
 
-- Matrix Traversal
-- Matrix Rotation
-- In-place Modification
-- Space Optimization
+* Matrix Traversal
+* Matrix Rotation
+* In-place Modification
+* Space Optimization
+* Prefix Techniques
 
 ## Hashing
 
-- Two Sum
-- Longest Subarray Sum K
-- Subarray XOR
-- Frequency Counting
+* Two Sum
+* Longest Subarray Sum K
+* Subarray XOR
+* Frequency Counting
 
 ## Two Pointers
 
-- Sort Colors
-- 3Sum
-- 4Sum
-- Merge Arrays
+* Sort Colors
+* 3Sum
+* 4Sum
+* Merge Arrays
 
 ## Binary Search
 
-- Search a 2D Matrix
+* Search a 2D Matrix
 
 ## Dynamic Programming
 
-- Kadane's Algorithm
-- Unique Paths
+* Kadane's Algorithm
+* Unique Paths
 
 ## Greedy
 
-- Next Permutation
-- Stock Buy & Sell
+* Next Permutation
+* Best Time to Buy and Sell Stock
 
 ## Mathematics
 
-- Binary Exponentiation
-- Missing & Repeating Number
-
-## Voting Algorithms
-
-- Moore's Voting Algorithm
-- Majority Element II
-
-## Intervals
-
-- Merge Intervals
-
-## Prefix Techniques
-
-- Prefix Sum
-- Prefix XOR
+* Binary Exponentiation
+* Missing & Repeating Number
 
 ## Linked Lists
 
-- Slow & Fast Pointers
-- Linked List Reversal
-- Dummy Node Technique
-- Merge Pattern
-- Pointer Manipulation
-- Linked List Arithmetic
-- Floyd's Cycle Detection
-- Intersection Detection
-- K-Group Reversal
+* Slow & Fast Pointer Technique
+* Linked List Reversal
+* Dummy Node Technique
+* Merge Two Sorted Lists
+* Floyd's Cycle Detection
+* Cycle Start Detection
+* Intersection Detection
+* K-Group Reversal
+* Palindrome Linked List Pattern
 
 ---
 
@@ -331,6 +116,8 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ```text
 45-DAYS-DSA-CHALLENGE
+│
+├── README.md
 │
 ├── DAY-1
 │   ├── LC73_Set_Matrix_Zeroes.java
@@ -384,7 +171,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── LC141_Linked_List_Cycle.java
 │   └── LC25_Reverse_Nodes_In_K_Group.java
 │
-└── README.md
+├── DAY-12
+│   ├── LC234_Palindrome_Linked_List.java
+│   └── LC142_Linked_List_Cycle_II.java
+│
+└── Future Days...
 ```
 
 ---
@@ -392,27 +183,27 @@ This repository documents my journey of solving DSA problems consistently, impro
 # 🔥 Challenge Progress
 
 ```text
-Progress: 11 / 45 Days (24.4%)
+Progress: 12 / 45 Days (26.7%)
 
-███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completed:** 11 Days ✅
+✅ Completed: 12 Days
 
-**Remaining:** 34 Days ⏳
+⏳ Remaining: 33 Days
 
 ---
 
 # 🎯 Upcoming Topics
 
-- Advanced Linked Lists
-- Recursion & Backtracking
-- Binary Search
-- Stack & Queue
-- Trees
-- Binary Search Trees
-- Graphs
-- Dynamic Programming
+* Advanced Linked Lists
+* Recursion & Backtracking
+* Binary Search
+* Stack & Queue
+* Trees
+* Binary Search Trees
+* Graphs
+* Dynamic Programming
 
 ---
 
@@ -420,6 +211,6 @@ Progress: 11 / 45 Days (24.4%)
 
 This repository serves as a public record of my DSA preparation journey through the TakeUForward SDE Sheet.
 
-My goal is not just to solve problems but to understand patterns, improve optimization skills, and build strong problem-solving abilities for technical interviews.
+My goal is not just to solve problems, but to understand patterns, improve optimization skills, and develop strong problem-solving abilities for technical interviews.
 
 🚀 Happy Coding!
