@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 12 / 45 |
-| Problems Solved        | 32      |
-| LeetCode Problems      | 28      |
-| GeeksforGeeks Problems | 4       |
-| Completion Percentage  | 26.7%   |
+| Days Completed         | 13 / 45 |
+| Problems Solved        | 35      |
+| LeetCode Problems      | 30      |
+| GeeksforGeeks Problems | 5       |
+| Completion Percentage  | 28.9%   |
 
 ---
 
@@ -52,10 +52,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 10 | Linked List Part-II  | LC19, LC2, LC237                             |
 | Day 11 | Linked List Part-III | LC160, LC141, LC25                           |
 | Day 12 | Linked List Part-IV  | LC234, LC142                                 |
+| Day 13 | Linked List Part-V   | GFG Flattening LL, LC61, LC138               |
 
 ---
 
-# 📚 Topics & Patterns Covered
+# 🧠 Topics & Patterns Covered
 
 ## Arrays
 
@@ -63,7 +64,8 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Matrix Rotation
 * In-place Modification
 * Space Optimization
-* Prefix Techniques
+* Prefix Sum
+* Prefix XOR
 
 ## Hashing
 
@@ -81,7 +83,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ## Binary Search
 
-* Search a 2D Matrix
+* Search in a 2D Matrix
 
 ## Dynamic Programming
 
@@ -102,13 +104,18 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 * Slow & Fast Pointer Technique
 * Linked List Reversal
-* Dummy Node Technique
 * Merge Two Sorted Lists
+* Dummy Node Technique
 * Floyd's Cycle Detection
 * Cycle Start Detection
 * Intersection Detection
 * K-Group Reversal
-* Palindrome Linked List Pattern
+* Palindrome Linked List
+* Linked List Rotation
+* Multi-Level Linked List Flattening
+* Deep Copy of Linked List
+* Random Pointer Handling
+* Recursive Merge Pattern
 
 ---
 
@@ -175,6 +182,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── LC234_Palindrome_Linked_List.java
 │   └── LC142_Linked_List_Cycle_II.java
 │
+├── DAY-13
+│   ├── GFG_Flattening_A_Linked_List.java
+│   ├── LC61_Rotate_List.java
+│   └── LC138_Copy_List_With_Random_Pointer.java
+│
 └── Future Days...
 ```
 
@@ -183,24 +195,24 @@ This repository documents my journey of solving DSA problems consistently, impro
 # 🔥 Challenge Progress
 
 ```text
-Progress: 12 / 45 Days (26.7%)
+Progress: 13 / 45 Days (28.9%)
 
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-✅ Completed: 12 Days
+✅ Completed: 13 Days
 
-⏳ Remaining: 33 Days
+⏳ Remaining: 32 Days
 
 ---
 
 # 🎯 Upcoming Topics
 
-* Advanced Linked Lists
-* Recursion & Backtracking
-* Binary Search
-* Stack & Queue
-* Trees
+* Stacks
+* Queues
+* Recursion
+* Backtracking
+* Binary Trees
 * Binary Search Trees
 * Graphs
 * Dynamic Programming
@@ -211,6 +223,6 @@ Progress: 12 / 45 Days (26.7%)
 
 This repository serves as a public record of my DSA preparation journey through the TakeUForward SDE Sheet.
 
-My goal is not just to solve problems, but to understand patterns, improve optimization skills, and develop strong problem-solving abilities for technical interviews.
+My goal is not just to solve problems but to understand patterns, improve optimization skills, and build strong problem-solving abilities for technical interviews.
 
 🚀 Happy Coding!
