@@ -441,20 +441,6 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-# 🔥 Challenge Progress
-
-```text
-Progress: 13 / 45 Days (28.9%)
-
-█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-✅ Completed: 13 Days
-
-⏳ Remaining: 32 Days
-
----
-
 # 🎯 Upcoming Topics
 
 * Stacks
