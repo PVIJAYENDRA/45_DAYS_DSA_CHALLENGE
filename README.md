@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 13 / 45 |
-| Problems Solved        | 35      |
-| LeetCode Problems      | 30      |
+| Days Completed         | 14 / 45 |
+| Problems Solved        | 38      |
+| LeetCode Problems      | 33      |
 | GeeksforGeeks Problems | 5       |
-| Completion Percentage  | 28.9%   |
+| Completion Percentage  | 31.1%   |
 
 ---
 
@@ -43,16 +43,17 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 1  | Arrays               | LC73, LC118, LC31                            | ✅      |
 | Day 2  | Arrays               | LC53, LC75, LC121                            | ✅      |
 | Day 3  | Arrays Part-II       | LC48, LC56, GFG Merge Arrays                 | ✅      |
-| Day 4  | Arrays Part-III      | LC287, GFG Repeating & Missing Number        | ✅      |
-| Day 5  | Arrays Part-IV       | LC74, LC50, LC169, LC229                     | ✅      |
-| Day 6  | Arrays Part-V        | LC62                                         | ✅      |
-| Day 7  | Arrays Part-VI       | LC1, LC15, LC18                              | ✅      |
-| Day 8  | Arrays Part-VII      | GFG Longest Subarray Sum K, GFG Subarray XOR | ✅      |
+| Day 4  | Arrays Part-II       | LC287, GFG Repeating & Missing Number        | ✅      |
+| Day 5  | Arrays Part-III      | LC74, LC50, LC169, LC229                     | ✅      |
+| Day 6  | Arrays Part-III      | LC62                                         | ✅      |
+| Day 7  | Arrays Part- IV      | LC1, LC15, LC18                              | ✅      |
+| Day 8  | Arrays Part- IV      | GFG Longest Subarray Sum K, GFG Subarray XOR | ✅      |
 | Day 9  | Linked List Part-I   | LC876, LC206, LC21                           | ✅      |
-| Day 10 | Linked List Part-II  | LC19, LC2, LC237                             | ✅      |
-| Day 11 | Linked List Part-III | LC160, LC141, LC25                           | ✅      |
-| Day 12 | Linked List Part-IV  | LC234, LC142                                 | ✅      |
-| Day 13 | Linked List Part-V   | GFG Flattening LL, LC61, LC138               | ✅      |
+| Day 10 | Linked List Part-I   | LC19, LC2, LC237                             | ✅      |
+| Day 11 | Linked List Part-II  | LC160, LC141, LC25                           | ✅      |
+| Day 12 | Linked List Part-II  | LC234, LC142                                 | ✅      |
+| Day 13 | Linked List Part-III | GFG Flattening LL, LC61, LC138               | ✅      |
+| Day 14 | LinkedList and Arrays| LC26, LC42, LC485                            | ✅      |
 
 ---
 
@@ -279,6 +280,27 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+## 📅 Day 14 - Linked List and Arrays
+
+### Problems Solved
+
+* LC42 - Trapping Rain Water
+* LC26 - Remove Duplicates from Sorted Array
+* LC485 - Max Consecutive Ones
+
+### Key Learnings
+
+* Two Pointer Technique
+* In-Place Array Modification
+* Water Trapping Optimization
+* Prefix Maximum Concept
+* Left & Right Boundary Processing
+* Space Optimized Two Pointer Solution
+* Consecutive Sequence Tracking
+* Array Traversal Patterns
+
+---
+
 # 🧠 Patterns Covered
 
 ## Arrays
@@ -408,6 +430,9 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   └── LC138_Copy_List_With_Random_Pointer.java
 │
 ├── DAY-14
+│   ├── LC42_Trapping_Rain_Water
+│   ├── LC26_Remove_Duplicates_from_Sorted_Array
+│   └── LC485_Max_Consecutive_Ones
 ├── DAY-15
 ├── ...
 │
