@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 14 / 45 |
-| Problems Solved        | 38      |
-| LeetCode Problems      | 33      |
+| Days Completed         | 25 / 45 |
+| Problems Solved        | 40      |
+| LeetCode Problems      | 35      |
 | GeeksforGeeks Problems | 5       |
-| Completion Percentage  | 31.1%   |
+| Completion Percentage  | 55.6%   |
 
 ---
 
@@ -54,6 +54,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 12 | Linked List Part-II  | LC234, LC142                                 | ✅      |
 | Day 13 | Linked List Part-III | GFG Flattening LL, LC61, LC138               | ✅      |
 | Day 14 | LinkedList and Arrays| LC26, LC42, LC485                            | ✅      |
+| Day 25 | Stack and Hashing    | LC20, LC496                                  | ✅      |
 
 ---
 
@@ -298,6 +299,23 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Space Optimized Two Pointer Solution
 * Consecutive Sequence Tracking
 * Array Traversal Patterns
+
+---
+
+## 📅 Day 25 - Stacks and Hashing
+
+### Problems Solved
+
+* LC20 - Valid Parentheses
+* LC496 - Next Greater Element I
+
+### Key Learnings
+
+* Stack-Based Matching
+* Character Pair Validation
+* Monotonic Stack Pattern
+* Next Greater Element Mapping
+* HashMap Lookup Optimization
 
 ---
 
