@@ -29,9 +29,9 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Metric                 | Count   |
 | ---------------------- | ------- |
 | Days Completed         | 26 / 45 |
-| Problems Solved        | 42      |
-| LeetCode Problems      | 36      |
-| GeeksforGeeks Problems | 6       |
+| Problems Solved        | 70      |
+| LeetCode Problems      | 50      |
+| GeeksforGeeks Problems | 20      |
 | Completion Percentage  | 57.8%   |
 
 ---
@@ -54,6 +54,16 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 12 | Linked List Part-II  | LC234, LC142                                 | ✅      |
 | Day 13 | Linked List Part-III | GFG Flattening LL, LC61, LC138               | ✅      |
 | Day 14 | LinkedList and Arrays| LC26, LC42, LC485                            | ✅      |
+| Day 15 | Greedy and Scheduling| LC45, LC55, LC860, SJF                        | ✅      |
+| Day 16 | Greedy and Scheduling| GFG Job Sequencing, LC45 Jump Game-II        | ✅      |
+| Day 17 | Recursion and Backtracking| GFG Subsets Sum, LC39, LC40, LC90      | ✅      |
+| Day 18 | Recursion and Backtracking| LC46, LC51                               | ✅      |
+| Day 19 | Recursion and DP     | GFG Rat in a Maze, LC139                     | ✅      |
+| Day 20 | Binary Search        | GFG Nth Root of M, GFG Median in Row-wise Matrix | ✅   |
+| Day 21 | Binary Search        | GFG Aggressive Cows, GFG Allocate Pages, GFG Kth Element, LC4 | ✅ |
+| Day 22 | Heap                 | GFG Max Heap Implementation, GFG Maximum Sum Combination, LC215 | ✅ |
+| Day 23 | Heap and Stream      | GFG Merge K Sorted Arrays, LC295             | ✅      |
+| Day 24 | Stack and Queue      | GFG Queue using Arrays, GFG Stack using Arrays, LC225 | ✅ |
 | Day 25 | Stack and Hashing    | LC20, LC496                                  | ✅      |
 | Day 26 | Stack and Hashing    | GFG Next Smaller Element, LC146              | ✅      |
 
@@ -300,6 +310,174 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Space Optimized Two Pointer Solution
 * Consecutive Sequence Tracking
 * Array Traversal Patterns
+
+---
+
+## 📅 Day 15 - Greedy and Scheduling
+
+### Problems Solved
+
+* LC45 - Assign Cookies
+* LC55 - Jump Game
+* LC860 - Lemonade Change
+* SJF - Shortest Job First
+
+### Key Learnings
+
+* Greedy decision making
+* Minimum jump optimization
+* Resource allocation patterns
+* Scheduling with priority by burst time
+
+---
+
+## 📅 Day 16 - Greedy and Scheduling
+
+### Problems Solved
+
+* GFG - Job Sequencing Problem
+* LC45 - Jump Game II
+
+### Key Learnings
+
+* Deadline-based scheduling
+* Profit maximization
+* Greedy placement strategy
+* Reachability optimization
+
+---
+
+## 📅 Day 17 - Recursion and Backtracking
+
+### Problems Solved
+
+* GFG - Subsets Sum
+* LC39 - Combination Sum
+* LC40 - Combination Sum II
+* LC90 - Subsets II
+
+### Key Learnings
+
+* Recursive tree exploration
+* Subset generation
+* Duplicate handling in backtracking
+* Choice-explore-unchoose pattern
+
+---
+
+## 📅 Day 18 - Recursion and Backtracking
+
+### Problems Solved
+
+* LC46 - Permutations
+* LC51 - N-Queens
+
+### Key Learnings
+
+* Permutation construction
+* State restoration
+* Constraint checking
+* Board-based backtracking
+
+---
+
+## 📅 Day 19 - Recursion and DP
+
+### Problems Solved
+
+* GFG - Rat in a Maze
+* LC139 - Word Break
+
+### Key Learnings
+
+* Path exploration with recursion
+* Memoization for repeated states
+* String partition validation
+* Backtracking with pruning
+
+---
+
+## 📅 Day 20 - Binary Search
+
+### Problems Solved
+
+* GFG - Find Nth Root of M
+* GFG - Median in a Row-wise Sorted Matrix
+
+### Key Learnings
+
+* Search on answer space
+* Monotonic property usage
+* Counting-based binary search
+* Matrix-level binary search
+
+---
+
+## 📅 Day 21 - Binary Search
+
+### Problems Solved
+
+* GFG - Aggressive Cows
+* GFG - Allocate Pages
+* GFG - Kth Element of the Array
+* LC4 - Median of Two Sorted Arrays
+
+### Key Learnings
+
+* Binary search on answer
+* Feasibility checks
+* Partition-based reasoning
+* Optimal load distribution
+
+---
+
+## 📅 Day 22 - Heap
+
+### Problems Solved
+
+* GFG - Max Heap Implementation
+* GFG - Maximum Sum Combination
+* LC215 - Kth Largest Element in an Array
+
+### Key Learnings
+
+* Heap property maintenance
+* Top-K style processing
+* Priority-based extraction
+* Efficient selection techniques
+
+---
+
+## 📅 Day 23 - Heap and Stream
+
+### Problems Solved
+
+* GFG - Merge K Sorted Arrays
+* LC295 - Find Median from Data Stream
+
+### Key Learnings
+
+* K-way merging
+* Stream median maintenance
+* Balanced heap usage
+* Incremental data processing
+
+---
+
+## 📅 Day 24 - Stack and Queue
+
+### Problems Solved
+
+* GFG - Implement Queue using Arrays
+* GFG - Implement Stack using Arrays
+* LC225 - Implement Stack using Queues
+
+### Key Learnings
+
+* Array-backed linear structures
+* Stack and queue conversions
+* Basic ADT implementation
+* Push-pop simulation patterns
 
 ---
 
