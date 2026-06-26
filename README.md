@@ -647,6 +647,61 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── LC26_Remove_Duplicates_from_Sorted_Array
 │   └── LC485_Max_Consecutive_Ones
 ├── DAY-15
+│   ├── LC45_Assign_Cookies.java
+│   ├── LC55_Jump_Game-I.java
+│   ├── LC860_Lemonade_Change.java
+│   └── Shortest_Job_First.java
+
+├── DAY-16
+│   ├── Job_Sequencing_Problem.java
+│   └── LC45_Jump_Game-II.java
+
+├── DAY-17
+│   ├── GFG_Subsets Sum.java
+│   ├── LC39_Combination_Sum.java
+│   ├── LC40_Combination_Sum_II.java
+│   └── LC90_Subsets_II.java
+
+├── DAY-18
+│   ├── LC46_Permutations.java
+│   └── LC51_N-Queens.java
+
+├── DAY-19
+│   ├── GFG_Rat_In_a_Maze.java
+│   └── LC139_Word_Break.java
+
+├── DAY-20
+│   ├── GFG_Find_nth_root_of_m.java
+│   └── GFG_Median in a row-wise sorted Matrix.java
+
+├── DAY-21
+│   ├── GFG_Agressive_Cows.java
+│   ├── GFG_Allocate_Pages.java
+│   ├── GFG_Kth_Element_of_the_array.java
+│   └── LC4_Median_of_Two_Sorted_Arrays.java
+
+├── DAY-22
+│   ├── GFG_Max_Heap_Implementation.java
+│   ├── GFG_Maximum_Sum_Combination.java
+│   └── LC215_KTh_Largest_Element.java
+
+├── DAY-23
+│   ├── GFG_Merge_K_Sorted_Arrays.java
+│   └── LC295_Find_Median_From_Data_Stream.java
+
+├── DAY-24
+│   ├── GFG_Implement_Queue_using_Arrays.java
+│   ├── GFG_Implement_Stack_using_Arrays.java
+│   └── LC225_Implement_Stack_using_Queues.java
+
+├── DAY-25
+│   ├── LC20_Valid_Parenthesis.java
+│   └── LC496_Next_Greater_Element_I.java
+
+├── DAY-26
+│   ├── GFG_Next_Smaller_Element.java
+│   └── LC146_LRU_CACHE.java
+
 ├── ...
 │
 └── DAY-45
