@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 25 / 45 |
-| Problems Solved        | 40      |
-| LeetCode Problems      | 35      |
-| GeeksforGeeks Problems | 5       |
-| Completion Percentage  | 55.6%   |
+| Days Completed         | 26 / 45 |
+| Problems Solved        | 42      |
+| LeetCode Problems      | 36      |
+| GeeksforGeeks Problems | 6       |
+| Completion Percentage  | 57.8%   |
 
 ---
 
@@ -55,6 +55,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 13 | Linked List Part-III | GFG Flattening LL, LC61, LC138               | ✅      |
 | Day 14 | LinkedList and Arrays| LC26, LC42, LC485                            | ✅      |
 | Day 25 | Stack and Hashing    | LC20, LC496                                  | ✅      |
+| Day 26 | Stack and Hashing    | GFG Next Smaller Element, LC146              | ✅      |
 
 ---
 
@@ -316,6 +317,22 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Monotonic Stack Pattern
 * Next Greater Element Mapping
 * HashMap Lookup Optimization
+
+---
+
+## 📅 Day 26 - Stacks and Hashing
+
+### Problems Solved
+
+* GFG - Next Smaller Element
+* LC146 - LRU Cache
+
+### Key Learnings
+
+* Monotonic Stack Usage
+* Element-to-Neighbor Mapping
+* Doubly Linked List + HashMap Design
+* O(1) Cache Operations
 
 ---
 
