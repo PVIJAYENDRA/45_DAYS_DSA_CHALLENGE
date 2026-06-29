@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 26 / 45 |
-| Problems Solved        | 70      |
-| LeetCode Problems      | 50      |
+| Days Completed         | 27 / 45 |
+| Problems Solved        | 73      |
+| LeetCode Problems      | 53      |
 | GeeksforGeeks Problems | 20      |
-| Completion Percentage  | 57.8%   |
+| Completion Percentage  | 60.0%   |
 
 ---
 
@@ -511,6 +511,23 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Element-to-Neighbor Mapping
 * Doubly Linked List + HashMap Design
 * O(1) Cache Operations
+
+---
+
+## 📅 Day 29 - Strings
+
+### Problems Solved
+
+* LC151 - Reverse Words in a String
+* LC5 - Longest Palindromic Substring
+* LC13 - Roman to Integer
+
+### Key Learnings
+
+* String traversal and token handling
+* Center expansion for palindromes
+* Character-to-value mapping
+* Parsing and conditional accumulation
 
 ---
 
