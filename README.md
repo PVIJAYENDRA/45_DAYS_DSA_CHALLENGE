@@ -66,6 +66,9 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 24 | Stack and Queue      | GFG Queue using Arrays, GFG Stack using Arrays, LC225 | ✅ |
 | Day 25 | Stack and Hashing    | LC20, LC496                                  | ✅      |
 | Day 26 | Stack and Hashing    | GFG Next Smaller Element, LC146              | ✅      |
+| Day 27 | Stacks and Queues    | LC155, LC239, LC994                          | ✅      |
+| Day 28 | Stacks and Monotonic Stack | GFG Max of Min for Every Window Size, LC901 | ✅ |
+| Day 29 | Strings              | LC151, LC5, LC13                             | ✅      |
 
 ---
 
