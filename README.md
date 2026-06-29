@@ -40,15 +40,15 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Day    | Topic                | Problems Solved                              | Status |
 | ------ | -------------------- | -------------------------------------------- | ------ |
-| Day 1  | Arrays               | LC73, LC118, LC31                            | ✅      |
-| Day 2  | Arrays               | LC53, LC75, LC121                            | ✅      |
-| Day 3  | Arrays Part-II       | LC48, LC56, GFG Merge Arrays                 | ✅      |
-| Day 4  | Arrays Part-II       | LC287, GFG Repeating & Missing Number        | ✅      |
-| Day 5  | Arrays Part-III      | LC74, LC50, LC169, LC229                     | ✅      |
-| Day 6  | Arrays Part-III      | LC62                                         | ✅      |
-| Day 7  | Arrays Part- IV      | LC1, LC15, LC18                              | ✅      |
-| Day 8  | Arrays Part- IV      | GFG Longest Subarray Sum K, GFG Subarray XOR | ✅      |
-| Day 9  | Linked List Part-I   | LC876, LC206, LC21                           | ✅      |
+| Day 01 | Arrays               | LC73, LC118, LC31                            | ✅      |
+| Day 02 | Arrays               | LC53, LC75, LC121                            | ✅      |
+| Day 03 | Arrays Part-II       | LC48, LC56, GFG Merge Arrays                 | ✅      |
+| Day 04 | Arrays Part-II       | LC287, GFG Repeating & Missing Number        | ✅      |
+| Day 05 | Arrays Part-III      | LC74, LC50, LC169, LC229                     | ✅      |
+| Day 06 | Arrays Part-III      | LC62                                         | ✅      |
+| Day 07 | Arrays Part- IV      | LC1, LC15, LC18                              | ✅      |
+| Day 08 | Arrays Part- IV      | GFG Longest Subarray Sum K, GFG Subarray XOR | ✅      |
+| Day 09 | Linked List Part-I   | LC876, LC206, LC21                           | ✅      |
 | Day 10 | Linked List Part-I   | LC19, LC2, LC237                             | ✅      |
 | Day 11 | Linked List Part-II  | LC160, LC141, LC25                           | ✅      |
 | Day 12 | Linked List Part-II  | LC234, LC142                                 | ✅      |
