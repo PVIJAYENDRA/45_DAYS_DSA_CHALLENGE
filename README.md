@@ -74,7 +74,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 # 📚 Daily Progress & Learnings
 
-## 📅 Day 1 - Arrays
+## 📅 Day 01 - Arrays
 
 ### Problems Solved
 
@@ -91,7 +91,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 2 - Arrays
+## 📅 Day 02 - Arrays
 
 ### Problems Solved
 
@@ -108,7 +108,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 3 - Arrays Part-II
+## 📅 Day 03 - Arrays Part-II
 
 ### Problems Solved
 
@@ -125,7 +125,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 4 - Arrays Part-III
+## 📅 Day 04 - Arrays Part-III
 
 ### Problems Solved
 
@@ -140,7 +140,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 5 - Arrays Part-IV
+## 📅 Day 05 - Arrays Part-IV
 
 ### Problems Solved
 
@@ -158,7 +158,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 6 - Arrays Part-V
+## 📅 Day 06 - Arrays Part-V
 
 ### Problems Solved
 
@@ -173,7 +173,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 7 - Arrays Part-VI
+## 📅 Day 07 - Arrays Part-VI
 
 ### Problems Solved
 
@@ -190,7 +190,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 8 - Arrays Part-VII
+## 📅 Day 08 - Arrays Part-VII
 
 ### Problems Solved
 
@@ -206,7 +206,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-## 📅 Day 9 - Linked List Part-I
+## 📅 Day 09 - Linked List Part-I
 
 ### Problems Solved
 
