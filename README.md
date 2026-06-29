@@ -752,6 +752,20 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── GFG_Next_Smaller_Element.java
 │   └── LC146_LRU_CACHE.java
 
+├── DAY-27
+│   ├── LC155_Min_Stack.java
+│   ├── LC239_Sliding_Window_Maximum.java
+│   └── LC994_Rotting_Oranges.java
+
+├── DAY-28
+│   ├── GFG_Max_of_min_for_every_window_size.java
+│   └── LC901_Online_Stock_Span.java
+
+├── DAY-29
+│   ├── LC13_Roman_to_Integer.java
+│   ├── LC151_Reverse_Words_In_A_String.java
+│   └── LC5_Longest_Palindromic_Substring.java
+
 ├── ...
 │
 └── DAY-45
