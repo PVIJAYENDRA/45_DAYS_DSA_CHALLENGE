@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 27 / 45 |
-| Problems Solved        | 73      |
-| LeetCode Problems      | 53      |
-| GeeksforGeeks Problems | 20      |
-| Completion Percentage  | 60.0%   |
+| Days Completed         | 29 / 45 |
+| Problems Solved        | 78      |
+| LeetCode Problems      | 57      |
+| GeeksforGeeks Problems | 21      |
+| Completion Percentage  | 64.4%   |
 
 ---
 
@@ -511,6 +511,39 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Element-to-Neighbor Mapping
 * Doubly Linked List + HashMap Design
 * O(1) Cache Operations
+
+---
+
+## 📅 Day 27 - Stacks and Queues
+
+### Problems Solved
+
+* LC155 - Min Stack
+* LC239 - Sliding Window Maximum
+* LC994 - Rotting Oranges
+
+### Key Learnings
+
+* Constant-time minimum tracking
+* Monotonic deque usage
+* Level-order BFS traversal
+* Window-based optimization
+
+---
+
+## 📅 Day 28 - Stacks and Monotonic Stack
+
+### Problems Solved
+
+* GFG - Max of Min for Every Window Size
+* LC901 - Online Stock Span
+
+### Key Learnings
+
+* Previous and next smaller element patterns
+* Monotonic stack optimization
+* Span aggregation technique
+* Window answer propagation
 
 ---
 
