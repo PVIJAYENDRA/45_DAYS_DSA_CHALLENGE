@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 29 / 45 |
-| Problems Solved        | 78      |
-| LeetCode Problems      | 57      |
+| Days Completed         | 30 / 45 |
+| Problems Solved        | 81      |
+| LeetCode Problems      | 60      |
 | GeeksforGeeks Problems | 21      |
-| Completion Percentage  | 64.4%   |
+| Completion Percentage  | 66.7%   |
 
 ---
 
@@ -69,6 +69,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 27 | Stacks and Queues    | LC155, LC239, LC994                          | ✅      |
 | Day 28 | Stacks and Monotonic Stack | GFG Max of Min for Every Window Size, LC901 | ✅ |
 | Day 29 | Strings              | LC151, LC5, LC13                             | ✅      |
+| Day 30 | Strings              | LC8, LC686, LC14                             | ✅      |
 
 ---
 
@@ -567,6 +568,23 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+## 📅 Day 30 - Strings
+
+### Problems Solved
+
+* LC8 - String to Integer (atoi)
+* LC686 - Repeated String Match
+* LC14 - Longest Common Prefix
+
+### Key Learnings
+
+* String parsing and overflow handling
+* Repetition-based pattern matching
+* Prefix comparison across multiple strings
+* Iterative validation of text patterns
+
+---
+
 # 🧠 Patterns Covered
 
 ## Arrays
@@ -768,6 +786,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── LC13_Roman_to_Integer.java
 │   ├── LC151_Reverse_Words_In_A_String.java
 │   └── LC5_Longest_Palindromic_Substring.java
+
+├── DAY-30
+│   ├── LC14_Longest_Common_Prefix.java
+│   ├── LC686_Repeated_String_Match.java
+│   └── LC8_String_to_Integer(atoi).java
 
 ├── ...
 │

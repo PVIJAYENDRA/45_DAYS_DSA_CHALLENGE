@@ -1,0 +1,31 @@
+class Solution {
+    public int repeatedStringMatch(String a, String b) {
+        
+
+        int len_b = b.length();
+        int len_a = a.length();
+
+
+        int n = (len_b / len_a);
+        int cnt = n;
+
+        String na = "";
+        while (cnt-- > 0) {
+            na = na + a;
+        }
+
+        if (na.contains(b)) {
+            return n;   
+        }
+        na = na + a;
+        if (na.contains(b)) {
+            return n + 1;
+        }
+        na = na + a;
+        if (na.contains(b)) {
+            return n + 2;
+        }
+
+        return -1;
+    }
+}
