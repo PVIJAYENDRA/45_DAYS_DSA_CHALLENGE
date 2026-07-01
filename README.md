@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 30 / 45 |
-| Problems Solved        | 81      |
-| LeetCode Problems      | 60      |
-| GeeksforGeeks Problems | 21      |
-| Completion Percentage  | 66.7%   |
+| Days Completed         | 31 / 45 |
+| Problems Solved        | 83      |
+| LeetCode Problems      | 61      |
+| GeeksforGeeks Problems | 22      |
+| Completion Percentage  | 68.9%   |
 
 ---
 
@@ -70,6 +70,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 28 | Stacks and Monotonic Stack | GFG Max of Min for Every Window Size, LC901 | ✅ |
 | Day 29 | Strings              | LC151, LC5, LC13                             | ✅      |
 | Day 30 | Strings              | LC8, LC686, LC14                             | ✅      |
+| Day 31 | Strings              | LC28, GFG Search Pattern                     | ✅      |
 
 ---
 
@@ -585,6 +586,22 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+## 📅 Day 31 - Strings
+
+### Problems Solved
+
+* LC28 - Find the Index of the First Occurrence in a String
+* GFG - Search Pattern
+
+### Key Learnings
+
+* Naive substring search
+* Pattern matching in strings
+* Index tracking across text scans
+* Reusable matching logic for repeated comparisons
+
+---
+
 # 🧠 Patterns Covered
 
 ## Arrays
@@ -791,6 +808,10 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── LC14_Longest_Common_Prefix.java
 │   ├── LC686_Repeated_String_Match.java
 │   └── LC8_String_to_Integer(atoi).java
+
+├── DAY-31
+│   ├── GFG_Search_Pattern.java
+│   └── LC28_Find_the_Index_of_the_First_Occurrence_in_a_String.java
 
 ├── ...
 │
