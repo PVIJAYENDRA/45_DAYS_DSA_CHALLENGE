@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 31 / 45 |
-| Problems Solved        | 83      |
-| LeetCode Problems      | 61      |
+| Days Completed         | 32 / 45 |
+| Problems Solved        | 85      |
+| LeetCode Problems      | 63      |
 | GeeksforGeeks Problems | 22      |
-| Completion Percentage  | 68.9%   |
+| Completion Percentage  | 71.1%   |
 
 ---
 
@@ -71,6 +71,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 29 | Strings              | LC151, LC5, LC13                             | ✅      |
 | Day 30 | Strings              | LC8, LC686, LC14                             | ✅      |
 | Day 31 | Strings              | LC28, GFG Search Pattern                     | ✅      |
+| Day 32 | Strings              | LC165, LC242                                 | ✅      |
 
 ---
 
@@ -602,6 +603,22 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+## 📅 Day 32 - Strings
+
+### Problems Solved
+
+* LC165 - Compare Version Numbers
+* LC242 - Valid Anagram
+
+### Key Learnings
+
+* Version string parsing and segment-wise comparison
+* Frequency counting for character validation
+* Early exit based on mismatch detection
+* Linear-time string comparison techniques
+
+---
+
 # 🧠 Patterns Covered
 
 ## Arrays
@@ -812,6 +829,10 @@ This repository documents my journey of solving DSA problems consistently, impro
 ├── DAY-31
 │   ├── GFG_Search_Pattern.java
 │   └── LC28_Find_the_Index_of_the_First_Occurrence_in_a_String.java
+
+├── DAY-32
+│   ├── LC165_Compare_Version_Numbers.java
+│   └── LC242_Valid_Anagram.java
 
 ├── ...
 │
