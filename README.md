@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 32 / 45 |
-| Problems Solved        | 85      |
-| LeetCode Problems      | 63      |
+| Days Completed         | 33 / 45 |
+| Problems Solved        | 88      |
+| LeetCode Problems      | 66      |
 | GeeksforGeeks Problems | 22      |
-| Completion Percentage  | 71.1%   |
+| Completion Percentage  | 73.3%   |
 
 ---
 
@@ -72,6 +72,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 30 | Strings              | LC8, LC686, LC14                             | ✅      |
 | Day 31 | Strings              | LC28, GFG Search Pattern                     | ✅      |
 | Day 32 | Strings              | LC165, LC242                                 | ✅      |
+| Day 33 | Binary Tree Traversal | LC94, LC144, LC145                           | ✅      |
 
 ---
 
@@ -619,6 +620,23 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+## 📅 Day 33 - Binary Tree Traversal
+
+### Problems Solved
+
+* LC94 - Binary Tree Inorder Traversal
+* LC144 - Binary Tree Preorder Traversal
+* LC145 - Binary Tree Postorder Traversal
+
+### Key Learnings
+
+* Depth-first traversal patterns
+* Recursive tree processing
+* Iterative stack-based traversal
+* Root-left-right and left-right-root ordering
+
+---
+
 # 🧠 Patterns Covered
 
 ## Arrays
@@ -833,6 +851,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 ├── DAY-32
 │   ├── LC165_Compare_Version_Numbers.java
 │   └── LC242_Valid_Anagram.java
+
+├── DAY-33
+│   ├── LC94_Binary_Tree_Inorder_Traversal.java
+│   ├── LC144_Binary_Tree_Preorder_Traversal.java
+│   └── LC145_Binary_Tree_Postorder_Traversal.java
 
 ├── ...
 │
