@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 33 / 45 |
-| Problems Solved        | 88      |
-| LeetCode Problems      | 66      |
-| GeeksforGeeks Problems | 22      |
-| Completion Percentage  | 73.3%   |
+| Days Completed         | 34 / 45 |
+| Problems Solved        | 92      |
+| LeetCode Problems      | 67      |
+| GeeksforGeeks Problems | 25      |
+| Completion Percentage  | 75.6%   |
 
 ---
 
@@ -73,6 +73,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 31 | Strings              | LC28, GFG Search Pattern                     | ✅      |
 | Day 32 | Strings              | LC165, LC242                                 | ✅      |
 | Day 33 | Binary Tree Traversal | LC94, LC144, LC145                           | ✅      |
+| Day 34 | Binary Tree Views    | LC199, GFG Left View, GFG Top View, GFG Bottom View | ✅      |
 
 ---
 
@@ -634,6 +635,24 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Recursive tree processing
 * Iterative stack-based traversal
 * Root-left-right and left-right-root ordering
+
+---
+
+## 📅 Day 34 - Binary Tree Views
+
+### Problems Solved
+
+* LC199 - Binary Tree Right Side View
+* GFG - Left View of Binary Tree
+* GFG - Top View of Binary Tree
+* GFG - Bottom View of Binary Tree
+
+### Key Learnings
+
+* Level-order traversal for view extraction
+* Horizontal distance mapping
+* Queue-based breadth-first search
+* Tree view projection techniques
 
 ---
 
