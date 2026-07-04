@@ -876,6 +876,12 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── LC144_Binary_Tree_Preorder_Traversal.java
 │   └── LC145_Binary_Tree_Postorder_Traversal.java
 
+├── DAY-34
+│   ├── GFG_Bottom_View_of_Binary_Tree.java
+│   ├── GFG_Left_View_of_Binary_Tree.java
+│   ├── GFG_Top_View_of_Binary_Tree.java
+│   └── LC199_Binary_Tree_Right_Side_View.java
+
 ├── ...
 │
 └── DAY-45
