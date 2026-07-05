@@ -914,14 +914,13 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 # 🎯 Upcoming Topics
 
-* Stacks
-* Queues
-* Recursion
-* Backtracking
-* Trees
 * Binary Search Trees
-* Graphs
+* Heaps and Priority Queues
+* Graph Traversal and Shortest Path Algorithms
 * Dynamic Programming
+* Tries
+* Advanced Recursion and Backtracking
+* Bit Manipulation
 
 ---
 
