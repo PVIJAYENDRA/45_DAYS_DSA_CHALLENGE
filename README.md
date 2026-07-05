@@ -915,7 +915,6 @@ This repository documents my journey of solving DSA problems consistently, impro
 # 🎯 Pending Topics
 
 * Binary Search Trees
-* Heaps and Priority Queues
 * Graphs and Graph Traversal
 * Shortest Path Algorithms
 * Dynamic Programming
