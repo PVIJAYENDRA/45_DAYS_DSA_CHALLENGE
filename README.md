@@ -912,15 +912,17 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
-# 🎯 Upcoming Topics
+# 🎯 Pending Topics
 
 * Binary Search Trees
 * Heaps and Priority Queues
-* Graph Traversal and Shortest Path Algorithms
+* Graphs and Graph Traversal
+* Shortest Path Algorithms
 * Dynamic Programming
 * Tries
-* Advanced Recursion and Backtracking
 * Bit Manipulation
+* Segment Trees / Fenwick Trees
+* Advanced Recursion and Backtracking
 
 ---
 
