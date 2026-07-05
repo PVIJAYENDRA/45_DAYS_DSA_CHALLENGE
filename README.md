@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 34 / 45 |
-| Problems Solved        | 92      |
-| LeetCode Problems      | 67      |
-| GeeksforGeeks Problems | 25      |
-| Completion Percentage  | 75.6%   |
+| Days Completed         | 35 / 45 |
+| Problems Solved        | 95      |
+| LeetCode Problems      | 68      |
+| GeeksforGeeks Problems | 27      |
+| Completion Percentage  | 77.8%   |
 
 ---
 
@@ -74,6 +74,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 32 | Strings              | LC165, LC242                                 | ✅      |
 | Day 33 | Binary Tree Traversal | LC94, LC144, LC145                           | ✅      |
 | Day 34 | Binary Tree Views    | LC199, GFG Left View, GFG Top View, GFG Bottom View | ✅      |
+| Day 35 | Binary Tree Traversal Part-II | GFG Pre, Post and In-order Traversal, GFG Root to Leaf Paths, LC987 | ✅      |
 
 ---
 
@@ -653,6 +654,23 @@ This repository documents my journey of solving DSA problems consistently, impro
 * Horizontal distance mapping
 * Queue-based breadth-first search
 * Tree view projection techniques
+
+---
+
+## 📅 Day 35 - Binary Tree Traversal Part-II
+
+### Problems Solved
+
+* GFG - Pre, Post and In-order Traversal in One Traversal
+* GFG - Root to Leaf Paths
+* LC987 - Vertical Order Traversal of a Binary Tree
+
+### Key Learnings
+
+* Single-pass traversal of a binary tree
+* Path tracking with backtracking
+* Coordinate-based tree traversal
+* Column and level ordering for vertical traversal
 
 ---
 
