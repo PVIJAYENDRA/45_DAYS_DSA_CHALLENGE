@@ -900,6 +900,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── GFG_Top_View_of_Binary_Tree.java
 │   └── LC199_Binary_Tree_Right_Side_View.java
 
+├── DAY-35
+│   ├── GFG_Root_To_Leaf_Paths.java
+│   ├── LC987_Vertical_Order_Traversal_of_a_Binary_Tree.java
+│   └── Pre_Post_Inorder_In_One_Traversal.java
+
 ├── ...
 │
 └── DAY-45
