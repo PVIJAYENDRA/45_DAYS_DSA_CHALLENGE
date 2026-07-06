@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 35 / 45 |
-| Problems Solved        | 95      |
-| LeetCode Problems      | 68      |
+| Days Completed         | 36 / 45 |
+| Problems Solved        | 97      |
+| LeetCode Problems      | 70      |
 | GeeksforGeeks Problems | 27      |
-| Completion Percentage  | 77.8%   |
+| Completion Percentage  | 80.0%   |
 
 ---
 
@@ -75,6 +75,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 33 | Binary Tree Traversal | LC94, LC144, LC145                           | ✅      |
 | Day 34 | Binary Tree Views    | LC199, GFG Left View, GFG Top View, GFG Bottom View | ✅      |
 | Day 35 | Binary Tree Traversal Part-II | GFG Pre, Post and In-order Traversal, GFG Root to Leaf Paths, LC987 | ✅      |
+| Day 36 | Binary Tree Traversal Part-III | LC102, LC543                         | ✅      |
 
 ---
 
@@ -674,6 +675,22 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+## 📅 Day 36 - Binary Tree Traversal Part-III
+
+### Problems Solved
+
+* LC102 - Binary Tree Level Order Traversal
+* LC543 - Diameter of Binary Tree
+
+### Key Learnings
+
+* Breadth-first traversal with level grouping
+* Queue-based tree exploration
+* Height-based diameter calculation
+* Post-order recursion for tree metrics
+
+---
+
 # 🧠 Patterns Covered
 
 ## Arrays
@@ -904,6 +921,10 @@ This repository documents my journey of solving DSA problems consistently, impro
 │   ├── GFG_Root_To_Leaf_Paths.java
 │   ├── LC987_Vertical_Order_Traversal_of_a_Binary_Tree.java
 │   └── Pre_Post_Inorder_In_One_Traversal.java
+
+├── DAY-36
+│   ├── LC102_Binary_Tree_Level_Order_Traversal.java
+│   └── LC543_Diameter_of_Binary_Tree.java
 
 ├── ...
 │
