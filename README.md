@@ -28,11 +28,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 | Metric                 | Count   |
 | ---------------------- | ------- |
-| Days Completed         | 36 / 45 |
-| Problems Solved        | 97      |
-| LeetCode Problems      | 70      |
-| GeeksforGeeks Problems | 27      |
-| Completion Percentage  | 80.0%   |
+| Days Completed         | 37 / 45 |
+| Problems Solved        | 100     |
+| LeetCode Problems      | 72      |
+| GeeksforGeeks Problems | 28      |
+| Completion Percentage  | 82.2%   |
 
 ---
 
@@ -76,6 +76,7 @@ This repository documents my journey of solving DSA problems consistently, impro
 | Day 34 | Binary Tree Views    | LC199, GFG Left View, GFG Top View, GFG Bottom View | ✅      |
 | Day 35 | Binary Tree Traversal Part-II | GFG Pre, Post and In-order Traversal, GFG Root to Leaf Paths, LC987 | ✅      |
 | Day 36 | Binary Tree Traversal Part-III | LC102, LC543                         | ✅      |
+| Day 37 | Binary Tree Traversal Part-IV | LC100, LC103, GFG Boundary Traversal | ✅      |
 
 ---
 
@@ -691,6 +692,23 @@ This repository documents my journey of solving DSA problems consistently, impro
 
 ---
 
+## 📅 Day 37 - Binary Tree Traversal Part-IV
+
+### Problems Solved
+
+* LC100 - Same Tree
+* LC103 - Binary Tree Zigzag Level Order Traversal
+* GFG - Tree Boundary Traversal
+
+### Key Learnings
+
+* Structural and value comparison in binary trees
+* Level-order traversal with alternating direction
+* Boundary decomposition (left boundary, leaves, right boundary)
+* Careful duplicate avoidance while collecting tree boundary
+
+---
+
 # 🧠 Patterns Covered
 
 ## Arrays
@@ -925,6 +943,11 @@ This repository documents my journey of solving DSA problems consistently, impro
 ├── DAY-36
 │   ├── LC102_Binary_Tree_Level_Order_Traversal.java
 │   └── LC543_Diameter_of_Binary_Tree.java
+
+├── DAY-37
+│   ├── GFG_Tree_Boundary_Traversal.java
+│   ├── LC100_Same_Tree.java
+│   └── LC103_Binary_Tree_Zigzag_Level_Order_Traversal.java
 
 ├── ...
 │
